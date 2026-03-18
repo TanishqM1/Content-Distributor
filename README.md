@@ -1,4 +1,4 @@
-*this project is deprecated. It is managed privately*
+*this project is deprecated. updated versions are managed privately
 # Content Distributer 
 
 A multi-platform content distribution system designed to streamline the process of publishing content across multiple social media platforms. This application provides a unified interface for managing and distributing content, removing the need for repetitive manual posting.
